@@ -1,0 +1,1 @@
+g++ -std=c++17 -o GCC_Compiler.exe GCC_Compiler.cpp
